@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+_logs/
+_cache/
+app_errors.txt
+_last_run.txt
+config.json
+build/
+dist/
